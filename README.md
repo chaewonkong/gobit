@@ -1,10 +1,12 @@
-# Gobit
+# 🚛 Gobit
 
-Simple log forwarder like filebeat or fluentbit, written in Go.
+Simple log forwarder like filebeat or fluentbit.
+
+- Log forwarder demonstration in Go.
 
 ## Architecture
 
 ## Todo
 
-- [ X ] forward from single log file
-- [ ] offset management
+- [ X ] Read from single log file
+- [ ] Offset management
